@@ -15,3 +15,5 @@ Cards muestran algunas recetas de ejemplos
 - CSS
 - Javascript
 - Bootstrap
+
+![Demo del Proyecto](.assets/img/demo-gourmet.gif)
